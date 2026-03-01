@@ -1,92 +1,135 @@
 # FUTURE_PE_Task1
 
-## AI Generated Website Copy
-
-### 1️⃣ Hero Section
-
-**Healthy Smiles Begin Here – Trusted Dental Care in Hyderabad**
-
-Advanced, painless, and affordable dental treatments for families and working professionals.
-
-👉 Book Your Appointment Today  
-📞 Call Now for Free Consultation
+# AI Website Copy Generator for Local Businesses
 
 ---
 
-### 2️⃣ About Section
+## Problem Statement
 
-**Your Family Dentist in Hyderabad**
+Many local businesses struggle to create professional, SEO-friendly, and conversion-focused website copy.
+
+This project builds a structured AI prompt system that generates complete website content automatically using clear prompt engineering techniques.
+
+---
+
+## Business Selected
+
+Dental Clinic – Hyderabad
+
+Target Audience:
+- Families
+- Working Professionals
+
+---
+
+## Master Prompt Used
+
+You are a professional website copywriter.
+
+Create high-converting website copy for a dental clinic in Hyderabad.
+
+Target Audience:
+- Families
+- Working professionals
+
+Tone:
+- Trustworthy
+- Friendly
+- Professional
+
+Generate:
+1. Hero Section (headline + subheadline + CTA)
+2. About Section
+3. 3 Service Descriptions
+4. Why Choose Us (5 points)
+5. 3 Testimonials
+6. Final CTA
+
+Make it SEO-friendly and conversion-focused.
+
+---
+
+## AI Generated Website Copy
+
+### Hero Section
+
+Healthy Smiles Begin Here – Trusted Dental Care in Hyderabad
+
+Advanced, painless, and affordable dental treatments for families and busy professionals.
+
+👉 Book Your Appointment Today  
+📞 Call Now for Free Consultation  
+
+---
+
+### About Section
+
+Your Family Dentist in Hyderabad
 
 Welcome to one of the most trusted dental clinics in Hyderabad, where modern dentistry meets compassionate care.
 
-We understand that visiting a dentist can feel stressful — especially for children and busy professionals. That’s why we focus on:
-
+We focus on:
 - Comfortable and painless treatments  
 - Transparent pricing  
 - Flexible appointment timings  
 - Advanced dental technology  
 
-Our mission is simple: to give every patient a confident, healthy smile that lasts a lifetime.
+Our mission is to give every patient a confident and healthy smile.
 
 ---
 
-### 3️⃣ Our Dental Services
+### Our Services
 
-#### 🦷 Teeth Cleaning & Preventive Care
-Regular dental checkups help prevent cavities, gum disease, and costly treatments later.  
-✔ Professional teeth scaling and polishing  
-✔ Complete oral health checkup  
+1. Teeth Cleaning & Preventive Care  
+Regular checkups help prevent cavities and gum disease.
 
-#### 🦷 Root Canal Treatment
-Save your natural tooth with painless root canal therapy using modern equipment.  
-✔ Advanced rotary technology  
-✔ Single-sitting RCT available  
+2. Root Canal Treatment  
+Painless root canal using advanced technology.
 
-#### 🦷 Teeth Whitening
-Get a brighter smile in just one session.  
-✔ Safe and effective whitening  
-✔ Quick visible results  
+3. Teeth Whitening  
+Safe and effective whitening for a brighter smile.
 
 ---
 
-### 4️⃣ Why Choose Our Clinic?
+### Why Choose Us?
 
-- Experienced and qualified dentists  
-- Modern digital dental equipment  
+- Experienced dentists  
+- Modern equipment  
 - Strict sterilization standards  
-- Affordable treatment plans  
-- Convenient location in Hyderabad  
+- Affordable pricing  
+- Convenient Hyderabad location  
 
 ---
 
-### 5️⃣ What Our Patients Say
+### Patient Testimonials
 
-⭐ “Best dental clinic in Hyderabad! My treatment was completely painless.” – Rahul K.
-
-⭐ “Very professional staff and friendly environment.” – Sneha R.
-
-⭐ “Highly recommended for families.” – Arjun P.
+⭐ “Very professional and painless treatment.” – Rahul K.  
+⭐ “Best clinic for families.” – Sneha R.  
+⭐ “Highly recommend in Hyderabad.” – Arjun P.  
 
 ---
 
-### 6️⃣ Final Call to Action
+### Final CTA
 
 Don’t wait for dental problems to grow.
 
-📅 Schedule your appointment today and experience stress-free dentistry.
+📅 Book your appointment today and experience stress-free dentistry.
 
-👉 Book Your Visit Now
+---
 
 ## Prompt Engineering Strategy
 
 - Used role-based prompting
 - Defined target audience clearly
-- Structured the required output sections
+- Structured required output sections
 - Added tone instructions
 - Focused on SEO and conversion
 
+---
+
 ## Key Learnings
 
-- Clear structure improves AI output
-- Tone instructions improve professionalism
-- Specific audience targeting increases relevance
+- Clear and structured prompts improve AI output
+- Specifying tone increases professionalism
+- Audience targeting improves relevance
+- Organized sections create better website structure
