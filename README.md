@@ -6,12 +6,14 @@ Experience expert treatment with a personal touch.
 CTA Button:
 👉 Book Your Appointment Today
 👉 Call Now for a Free Consultation
+
 🏥 2. About Section
 Your Family’s Trusted Dental Clinic in Hyderabad
 At our clinic, we believe every smile deserves expert care. Located in the heart of Hyderabad, we provide comprehensive dental treatments for children, adults, and senior citizens in a safe, hygienic, and comfortable environment.
 Whether you need a routine dental checkup, cosmetic smile makeover, or emergency dental care, our experienced dentists use advanced technology to deliver painless and long-lasting results.
 We understand that working professionals have busy schedules — that’s why we offer flexible appointments, minimal waiting time, and efficient treatments.
 Your comfort. Your convenience. Your confident smile.
+
 🦷 3. Our Dental Services in Hyderabad
 1️⃣ Dental Implants & Tooth Replacement
 Missing teeth can affect your confidence and oral health. Our advanced dental implant treatments provide permanent, natural-looking tooth replacement solutions.
@@ -31,6 +33,7 @@ Want a brighter, more confident smile? Our cosmetic dental treatments are perfec
 ✔ Veneers & smile designing
 ✔ Stain removal
 ✔ Quick and visible results
+
 ⭐ 4. Why Choose Our Dental Clinic in Hyderabad?
 ✔ Experienced & Qualified Dentists
 Highly trained dental specialists with years of experience.
@@ -42,6 +45,7 @@ Comfortable care for kids, adults, and seniors.
 Evening & weekend slots for working professionals.
 ✔ Affordable & Transparent Pricing
 No hidden charges. Clear treatment plans.
+
 💬 5. What Our Patients Say
 ⭐ ⭐ ⭐ ⭐ ⭐
 "Best dental clinic in Hyderabad! The doctor explained everything clearly and my root canal was completely painless."
@@ -52,6 +56,7 @@ No hidden charges. Clear treatment plans.
 ⭐ ⭐ ⭐ ⭐ ⭐
 "Got my teeth whitening done before my wedding. Amazing results and very professional service!"
 – Anjali M., Marketing Executive
+
 📞 6. Final Call-to-Action
 Ready for a Healthier, Brighter Smile?
 Don’t wait for dental problems to get worse.
